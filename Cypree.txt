@@ -1,0 +1,8 @@
+Code .  (Abrir Projeto explorador de arquivo)
+
+npm init -y (Package do projeto)
+
+Npm install cypress -D (Instalar Cypress)
+
+npx Cypress open (Abrir)
+
